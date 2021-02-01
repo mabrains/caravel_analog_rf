@@ -1,0 +1,32 @@
+
+X0 out acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X1 out acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X2 out acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X3 out acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X4 out acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X5 out acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X6 acm acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X7 acm acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X8 acm acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X9 acm acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X10 acm acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+X11 acm acm vdd vdd sky130_fd_pr__pfet_01v8 w=5e+06u l=500000u
+
+X12 out inn dcm gnd sky130_fd_pr__nfet_01v8 w=4e+06u l=500000u
+X13 out inn dcm gnd sky130_fd_pr__nfet_01v8 w=4e+06u l=500000u
+X14 out inn dcm gnd sky130_fd_pr__nfet_01v8 w=4e+06u l=500000u
+X15 out inn dcm gnd sky130_fd_pr__nfet_01v8 w=4e+06u l=500000u
+
+X16 acm inp dcm gnd sky130_fd_pr__nfet_01v8 w=4e+06u l=500000u
+X17 acm inp dcm gnd sky130_fd_pr__nfet_01v8 w=4e+06u l=500000u
+X18 acm inp dcm gnd sky130_fd_pr__nfet_01v8 w=4e+06u l=500000u
+X19 acm inp dcm gnd sky130_fd_pr__nfet_01v8 w=4e+06u l=500000u
+
+X20 dcm imp gnd gnd sky130_fd_pr__nfet_01v8 w=5e+06u l=1e+06u
+X21 dcm imp gnd gnd sky130_fd_pr__nfet_01v8 w=5e+06u l=1e+06u
+X22 dcm imp gnd gnd sky130_fd_pr__nfet_01v8 w=5e+06u l=1e+06u
+X23 dcm imp gnd gnd sky130_fd_pr__nfet_01v8 w=5e+06u l=1e+06u
+X24 dcm imp gnd gnd sky130_fd_pr__nfet_01v8 w=5e+06u l=1e+06u
+X25 dcm imp gnd gnd sky130_fd_pr__nfet_01v8 w=5e+06u l=1e+06u
+
+X26 imp imp gnd gnd sky130_fd_pr__nfet_01v8 w=1e+06u l=1e+06u
