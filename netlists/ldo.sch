@@ -53,7 +53,7 @@ N -150 -1080 -150 -1030 { lab=iref}
 N -150 -1080 60 -1080 { lab=iref}
 N 60 -1080 60 -1030 { lab=iref}
 N 60 -1030 80 -1030 { lab=iref}
-N 280 -1330 280 -1310 {}
+N 280 -1330 280 -1310 { lab=VDD}
 C {sky130_fd_pr/nfet3_01v8.sym} -250 -1030 0 1 {name=M1
 L=1
 W=10
@@ -131,7 +131,7 @@ spiceprefix=X
 }
 C {sky130_fd_pr/pfet3_01v8.sym} 100 -1280 0 0 {name=M6
 L=1
-W=50
+W=60
 body=VDD
 nf=12
 mult=1
