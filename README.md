@@ -1,7 +1,7 @@
 # Analog and RF Testchip on Skywaters 130nm Technology.
 
 In this tapeout, we are planning to achieve the following:
-- 5 Transistor OTA with trimming resistors to adjust bias.
+- 5 Transistor OTA.
 - 6 Variations of On-Chip Inductors to test RF capabilities of this technology.
 
 
