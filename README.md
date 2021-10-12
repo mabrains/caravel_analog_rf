@@ -2,8 +2,7 @@
 
 In this tapeout, we are planning to achieve the following:
 - 5 Transistor OTA with trimming resistors to adjust bias. [Completed with Layout, without the trimming resistor]
-- LDO [Schematic is complete, no layout currently]
-- VCO at 2.45GHz for BT, Wifi applications [Tentative plan and in progress]
+- 6 Variations of On-Chip Inductors to test RF capabilities of this technology.
 
 
 ## OTA Design
@@ -19,21 +18,7 @@ In this tapeout, we are planning to achieve the following:
 | cmrr | 59.2db | 55.8db | 61.7db | 56.2db               | 61.5 |
 
 
-## LDO Design
-- Input voltage is 1.8V
-- Will add the specs later.
-
-## Schedule and timeline:
-
-### Monday December 7th, 2020
-- Complete the layout of trimming resistor for biasing of the 5 Transistor OTA
-
-### Thursday December 10th, 2020
-- Complete the LDO layout.
-
-## Thursday December 17th, 2020
-- Add a second stage for the OTA and have double stage OTA to achieve higher gain.
-
 ## Contributers
 - Design automation by [Ali Elshorbagy](https://github.com/Ali-Elshorbagy)
 - Layout automation by [Mina Maksimous](https://github.com/MinaMaksimous)
+- Inductors Automation by Ahmed Abd El Salam
