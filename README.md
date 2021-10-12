@@ -8,7 +8,7 @@ In this tapeout, we are planning to achieve the following:
 
 
 ## OTA Design
-- Simulated specs
+- Post Layou Specs
 
 | spec/corner | tt | fs | sf | ss                        | ff |
 | ----------- | --- | --- | --- | -----------------------| --- |
