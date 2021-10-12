@@ -1,5 +1,7 @@
 # Analog and RF Testchip on Skywaters 130nm Technology.
 
+[<img src="https://raw.githubusercontent.com/mabrains/sky130_ubuntu_setup/main/logo.svg" width="150">](http://mabrains.com/)
+
 In this tapeout, we are planning to achieve the following:
 - 5 Transistor OTA.
 - 6 Variations of On-Chip Inductors to test RF capabilities of this technology.
